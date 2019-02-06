@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_add_device_btn">Device ++</string>
+    <string name="main_remove_device_btn">Device --</string>
+    <string name="main_scan_device_btn">Scan Devices</string>
+    <string name="main_scan_food_btn">Scan Food</string>
+    <string name="main_force_timeout_btn">Force Timeout</string>
+    <string name="app_name">ThinkActive</string>
+</resources>

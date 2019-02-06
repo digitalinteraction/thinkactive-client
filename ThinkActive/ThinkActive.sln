@@ -1,0 +1,37 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkActive", "ThinkActive\ThinkActive.csproj", "{35DE0423-8628-43EC-9FE2-DEE6B85534E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMovement.AxLE.Comms", "..\OpenMovement.AxLE.Comms\OpenMovement.AxLE.Comms\OpenMovement.AxLE.Comms.csproj", "{81061A94-2094-4BA4-B163-158B75EFAA3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMovement.AxLE.Service", "..\OpenMovement.AxLE.Comms\OpenMovement.AxLE.Service\OpenMovement.AxLE.Service.csproj", "{7A0E2E35-FBDC-4B94-935E-B79D85ACEB0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMovement.AxLE.Comms.Bluetooth.Mobile.Android", "..\OpenMovement.AxLE.Comms\OpenMovement.AxLE.Comms.Bluetooth.Mobile.Android\OpenMovement.AxLE.Comms.Bluetooth.Mobile.Android.csproj", "{4D3A4F89-2848-44EA-B2AA-5EBC48C80DFC}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OpenMovement.AxLE.Comms.Bluetooth.Mobile", "..\OpenMovement.AxLE.Comms\OpenMovement.AxLE.Comms.Bluetooth.Mobile\OpenMovement.AxLE.Comms.Bluetooth.Mobile.shproj", "{4888FA23-083C-45B0-8970-89BB7A4E0916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35DE0423-8628-43EC-9FE2-DEE6B85534E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DE0423-8628-43EC-9FE2-DEE6B85534E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DE0423-8628-43EC-9FE2-DEE6B85534E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DE0423-8628-43EC-9FE2-DEE6B85534E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81061A94-2094-4BA4-B163-158B75EFAA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81061A94-2094-4BA4-B163-158B75EFAA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81061A94-2094-4BA4-B163-158B75EFAA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81061A94-2094-4BA4-B163-158B75EFAA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0E2E35-FBDC-4B94-935E-B79D85ACEB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0E2E35-FBDC-4B94-935E-B79D85ACEB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0E2E35-FBDC-4B94-935E-B79D85ACEB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0E2E35-FBDC-4B94-935E-B79D85ACEB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3A4F89-2848-44EA-B2AA-5EBC48C80DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3A4F89-2848-44EA-B2AA-5EBC48C80DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3A4F89-2848-44EA-B2AA-5EBC48C80DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3A4F89-2848-44EA-B2AA-5EBC48C80DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
